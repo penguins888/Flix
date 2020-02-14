@@ -21,9 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src=https://i.imgur.com/Hm4Ykuv.gif width=250><br>
-<img src=https://i.imgur.com/rERllEo.gif width=250><br>
-<img src=https://i.imgur.com/A60ZgrO.gif width=250><br>
+<img src=https://i.imgur.com/ekLJ1OJ.mp4 width=250><br>
 
 ### Notes
 Challenges: Figuring out how to auto layout the launch screen to have the icon be at the center and creating table cell constraints that aligned with the movie poster height.
