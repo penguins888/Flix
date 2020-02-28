@@ -36,6 +36,7 @@ Challenges: Figuring out whether or not the MovieDetailsViewController could be 
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
+<img src=https://i.imgur.com/Hm4Ykuv.gif width=250><br>
 <img src=https://i.imgur.com/rERllEo.gif width=250><br>
 <img src=https://i.imgur.com/A60ZgrO.gif width=250><br>
 
